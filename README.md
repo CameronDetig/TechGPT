@@ -1,8 +1,11 @@
 ## TechGPT
+AI Assistant to answer domain specific questions using RAG. Utilizes ChatGPT-4o with hidden chain of thought and RAGAs to evaluate responses.
+
 
 05/06/2025
 UNC Charlotte
 ITCS 5010 : Design and Development of Generative AI Applications
+
 Group 2: Cameron Detig, Zaid Jebril, Sri Girija Naga Anuhya Samudrala, Derek Smith
 
 - Reads a database of prior user queries and llm responses.
