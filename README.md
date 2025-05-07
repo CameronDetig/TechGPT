@@ -1,5 +1,5 @@
 ## TechGPT
-AI Assistant to answer domain specific questions using RAG. Utilizes ChatGPT-4o with hidden chain of thought and RAGAs to evaluate responses.
+AI Assistant to answer domain specific questions using RAG. Utilizes ChatGPT-4o-mini with hidden chain of thought and RAGAs to evaluate responses.
 
 
 05/06/2025
@@ -9,7 +9,7 @@ ITCS 5010 : Design and Development of Generative AI Applications
 Group 2: Cameron Detig, Zaid Jebril, Sri Girija Naga Anuhya Samudrala, Derek Smith
 
 - Reads a csv database of prior user queries and llm responses from a previous system.
-- Uses queries to generate new responses using prompt enhancement and hidden chain of thought. 
+- Uses the queries to generate new responses using prompt enhancement, RAG, and hidden chain of thought. 
 - Evaluates the new responses using ragas metrics to measure faithfulness, answer relevancy, context recall, and context precision.
 
 Steps to use the code:
